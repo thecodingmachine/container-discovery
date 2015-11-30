@@ -1,0 +1,13 @@
+{
+    "version": "1.0",
+    "binding-types": {
+        "container-interop/ContainerFactories": {
+            "description": "A list of factories implementing the ContainerFactoryInterface. Those factories are used to instantiate containers.",
+            "parameters": {
+                "priority": {
+                    "default": 0
+                }
+            }
+        }
+    }
+}
